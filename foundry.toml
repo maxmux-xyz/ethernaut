@@ -3,4 +3,5 @@ src = 'src'
 out = 'out'
 libs = ['lib']
 
+eth_rpc_url = "<Alchemy url>"
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
